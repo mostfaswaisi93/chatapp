@@ -1,1 +1,1 @@
-## Laravel Echo Server with Redis and NPM 
+## Laravel - Echo Server with Redis and NPM 
